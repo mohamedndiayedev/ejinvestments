@@ -464,10 +464,7 @@
     	<div class="auto-container">
         	<div class="outer-box clearfix">
             	<span class="anim-image wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1000ms"><img src="images/logo.jpeg" alt=""></span>
-                <div class="col-md-9 col-sm-7 col-xs-12">
-                    <p>On the other hand, we denounce with righteous indignation and dislike men who are so beguiled .</p>
-                </div>
-                <div class="col-md-3 col-sm-5 col-xs-12 text-right">
+                   <div class="col-md-3 col-sm-5 col-xs-12 text-right">
                 	<a href="#" class="theme-btn btn-style-two">CONTACT NOW</a>
                 </div>
             </div>
